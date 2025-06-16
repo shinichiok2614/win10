@@ -17,11 +17,14 @@ https://archive.org/details/windows-11-24h2-iso_202501
   Command Prompt, nhập taskmgr
   Đi tới tab Processes và sử dụng thanh tìm kiếm trong Task Manager để tìm tiến trình Network Connection Flow.
 
+  SmartScreen disable:
+  App & Browser Control> Smart App Control> Off
+
 Unity download archive
 https://unity.com/releases/editor/archive
 
-cmd: Visual Studio offline Unity + C# +.NET:
-VisualStudioSetup.exe --layout E:\VS2022_Unity_Offline --lang en-US --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.GameUnity
+Visual Studio offline C# +.NET:
+cmd> VisualStudioSetup.exe --layout E:\VS2022_Unity_Offline --lang en-US --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.CoreEditor
 
 E:\VS2022_Unity_Offline\vs_community.exe --noweb
 
