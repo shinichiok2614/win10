@@ -10,3 +10,18 @@ https://archive.org/download/win7-ult-sp1-english/Win7_Ult_SP1_English_x64.iso
 
 Official Windows 11 24H2 ISO downloaded from Microsoft.com 5.4G
 https://archive.org/details/windows-11-24h2-iso_202501
+
+  Khi ở màn hình Let's connect you to a network, hãy nhấn Shift + F10 để khởi chạy Command Prompt.
+  OOBE\BYPASSNRO
+
+  Command Prompt, nhập taskmgr
+  Đi tới tab Processes và sử dụng thanh tìm kiếm trong Task Manager để tìm tiến trình Network Connection Flow.
+
+Unity download archive
+https://unity.com/releases/editor/archive
+
+cmd: Visual Studio offline Unity + C# +.NET:
+VisualStudioSetup.exe --layout E:\VS2022_Unity_Offline --lang en-US --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.GameUnity
+
+E:\VS2022_Unity_Offline\vs_community.exe --noweb
+
