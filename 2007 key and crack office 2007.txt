@@ -1,0 +1,14 @@
+Nhập 1 trong những Key sau để cài Office 2007
+
+HCFPT-K86VV-DCKH3-87CCR-FM6HW
+V9MTG-3GX8P-D3Y4R-68BQ8-4Q8VD
+KGFVY-7733B-8WCK9-KTG64-BC7D8 (OK)
+VB48G-H6VK9-WJ93D-9R6RM-VP7GT
+TBMFM-QXMQX-G8FVP-BFH9J-X9PHM
+MTP6Q-D868F-448FG-B6MG7-3DBKT
+FHH8R-7WC4H-BH696-VBV6D-VCBMB
+
+copy and paste the patched MSO.dll(v.12.0.6425.1000) file to Office12 folder (C:\Program files\common files\microsoft shared\OFFICE12 ) .
+Mở MS Office word (or any one) Trong fom activation. Bạn chọn activation by telephone method
+Điền vào trong box tất cả đều 000000... (zero ) giống như hình phía dưới và click "next"
+Bây giờ bạn đã có 100% genuine MS Office Ultimate 2007 với Service Pack 2 và có thể update bất cứ khi nào
