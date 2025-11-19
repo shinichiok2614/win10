@@ -91,3 +91,8 @@ Visual Studio offline C# +.NET:
   1. Mở SQL Server Management Studio. Sau đó click chuột phải vào server và chọn Properties trong menu. 
   2. Trong hộp thoại Server Properties, chọn Security. 
   3. Đảm bảo Server Authentication được đặt thành SQL Server và Windows Authentication Method.
+
+EmguCV 
+https://sourceforge.net/projects/emgucv/files/emgucv/
+https://www.iostream.co/article/emgucv-opencv-cho-dot-net-gioi-thieu-va-cach-tich-hop-vao-dot-net-cAicg
+https://thigiacmaytinh.com/setup-project-c-su-dung-emgucv/
