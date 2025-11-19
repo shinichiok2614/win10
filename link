@@ -37,7 +37,51 @@ Unity download archive
 https://unity.com/releases/editor/archive
 
 Visual Studio offline C# +.NET:
-cmd> VisualStudioSetup.exe --layout E:\VS2022_Unity_Offline --lang en-US --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.CoreEditor
+  cmd> VisualStudioSetup.exe --layout E:\VS2022_Unity_Offline --lang en-US --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.CoreEditor
 
-E:\VS2022_Unity_Offline\vs_community.exe --noweb
+  E:\VS2022_Unity_Offline\vs_community.exe --noweb
 
+  Visual Studio 2015 Professional (link tải bản ISO full từ trang chủ)
+  https://go.microsoft.com/fwlink/?LinkId=615434&clcid=0x409
+  HMGNV-WCYXV-X7G9W-YCX63-B98R2
+
+  Visual Studio 2015 Enterprise (link tải bản ISO full từ trang chủ)
+  https://go.microsoft.com/fwlink/?LinkId=615436&clcid=0x409
+  2XNFG-KFHR8-QV3CP-3W6HT-683CH
+  HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+
+  Visual Studio 2015 Enterprise Update 3 ISO (7.23 GB)
+  http://download.microsoft.com/download/8/4/3/843ec655-1b67-46c3-a7a4-10a1159cfa84/vs2015.3.ent_enu.iso
+
+  1. Microsoft Visual Studio 2005 Full
+  http://download.microsoft.com/download/e/0/4/e04de840-8f6b-4fe5-ac3d-d3ad8e4c2443/En_vs_2005_Pro_90_Trial.img
+  Key: G33JH-B6782-QXWT8-VBH37-VBB4G
+  Link Google: (2,7G)
+  https://docs.google.com/uc?id=0B-Ot9Qh8WFk1OEVLSGxXR3BTLTg&export=download
+  2. Microsoft Visual Studio 2008 Profesional
+  download
+  Link Google: (3,3G)
+  gdrive
+  Key: 
+  XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT
+  PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
+  3. Visual Studio 2010 Ultimate
+  
+  Link Google: (2,3G)
+  https://docs.google.com/uc?id=0B-Ot9Qh8WFk1RnoxNE1ndlB3bkU&export=download
+  Key: Cài đặt không cần key
+  4. Microsoft Visual Studio 2012 Full
+  
+  Visual Studio 2012 Ultimate (1,4G)
+  https://docs.google.com/uc?id=0B-Ot9Qh8WFk1U21sRnpmaS1JcW8&export=download
+  Key: RBCXF-CVBGR-382MK-DFHJ4-C69G8﻿
+  5. Microsoft Visual Studio 2013 Full
+  For Visual Studio 2012
+  For VS 2012 Ultimate ISO http://download.microsoft.com/download/d/b/0/db03922c-ff91-4845-b7f2-fc68595ab730/vs2012_ult_enu.iso
+  
+  VS 2012 Professional ISO http://download.microsoft.com/download/D/E/8/DE8E42D8-7598-4F4E-93D4-BB011094E2F9/VS2012_PRO_enu.iso
+  
+  
+  Visual Studio Ultimate 2013 (2,8G)
+  gdrive
+  Key: FBJVC-3CMTX-D8DVP-RTQCT-92494
