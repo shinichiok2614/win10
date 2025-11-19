@@ -85,3 +85,9 @@ Visual Studio offline C# +.NET:
   Visual Studio Ultimate 2013 (2,8G)
   https://docs.google.com/uc?id=0B-Ot9Qh8WFk1ZFNINGRGTno0cXM&export=download
   Key: BWG7X-J98B3-W34RT-33B3R-JVYW9
+
+  Cách xử lý lỗi SQL cannot connect to server
+  Phương pháp xác thực
+  1. Mở SQL Server Management Studio. Sau đó click chuột phải vào server và chọn Properties trong menu. 
+  2. Trong hộp thoại Server Properties, chọn Security. 
+  3. Đảm bảo Server Authentication được đặt thành SQL Server và Windows Authentication Method.
