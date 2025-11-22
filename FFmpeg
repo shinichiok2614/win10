@@ -1,0 +1,43 @@
+CÀI ĐẶT FFmpeg TRÊN WINDOWS
+https://www.gyan.dev/ffmpeg/builds/
+ffmpeg-git-full.7z (hoặc .zip) — bản đầy đủ và ổn định.
+Giải nén ra được thư mục kiểu:
+Bên trong có thư mục:
+bin / doc / presets ...
+Để dùng lệnh ffmpeg trong bất kỳ thư mục nào.
+
+Mở Start Menu → tìm “Environment Variables” → mở
+
+Trong hộp System Properties → bấm Environment Variables
+
+Ở khung “System variables” → tìm Path → Edit
+
+Bấm New → dán đường dẫn tới thư mục bin của FFmpeg
+Ví dụ:
+
+C:\Tools\ffmpeg\bin
+
+
+Bấm OK để lưu.
+
+✔ Bước 4: Kiểm tra cài đặt
+
+Mở CMD hoặc PowerShell, chạy:
+
+ffmpeg -version
+
+Nếu hiện ra tên phiên bản → OK.
+Lệnh trích mỗi 20 frame (ví dụ lưu JPG):
+
+ffmpeg -i input.mp4 -vf "select='not(mod(n,20))'" -vsync vfr frame_%05d.jpg
+
+
+Giải thích nhanh:
+
+select='not(mod(n,20))' chọn những frame có chỉ số n chia hết cho 20 (0,20,40,...).
+
+-vsync vfr để xuất frame theo timestamp.
+
+Kết quả: frame_00001.jpg, frame_00002.jpg, ...
+
+Nếu muốn PNG: thay .jpg → .png.
