@@ -1,43 +1,72 @@
-CÀI ĐẶT FFmpeg TRÊN WINDOWS
+# CÀI ĐẶT FFmpeg TRÊN WINDOWS
+
+## Tải FFmpeg
+
+Trang tải FFmpeg:\
 https://www.gyan.dev/ffmpeg/builds/
-ffmpeg-git-full.7z (hoặc .zip) — bản đầy đủ và ổn định.
-Giải nén ra được thư mục kiểu:
-Bên trong có thư mục:
-bin / doc / presets ...
-Để dùng lệnh ffmpeg trong bất kỳ thư mục nào.
 
-Mở Start Menu → tìm “Environment Variables” → mở
+Bản Essentials (phổ biến):\
+https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
 
-Trong hộp System Properties → bấm Environment Variables
+Bạn cũng có thể dùng bản đầy đủ:\
+**ffmpeg-git-full.7z** (hoặc `.zip`) --- bản đầy đủ và ổn định.
 
-Ở khung “System variables” → tìm Path → Edit
+Giải nén sẽ được một thư mục dạng:
 
-Bấm New → dán đường dẫn tới thư mục bin của FFmpeg
-Ví dụ:
+    ffmpeg/
+     ├─ bin/
+     ├─ doc/
+     ├─ presets/
 
-C:\Tools\ffmpeg\bin
+Trong đó **bin/** chứa file thực thi `ffmpeg.exe`.
 
+------------------------------------------------------------------------
 
-Bấm OK để lưu.
+## Thêm FFmpeg vào PATH
 
-✔ Bước 4: Kiểm tra cài đặt
+Để dùng lệnh `ffmpeg` ở bất kỳ thư mục nào:
 
-Mở CMD hoặc PowerShell, chạy:
+1.  Mở **Start Menu** → tìm **Environment Variables** → mở.
+2.  Trong cửa sổ **System Properties**, chọn **Environment Variables**.
+3.  Ở khung **System variables**, tìm mục **Path** → **Edit**.
+4.  Bấm **New** → dán đường dẫn thư mục **bin** của FFmpeg.\
+    Ví dụ:
 
-ffmpeg -version
+```{=html}
+<!-- -->
+```
+    C:\Toolsfmpegin
 
-Nếu hiện ra tên phiên bản → OK.
-Lệnh trích mỗi 20 frame (ví dụ lưu JPG):
+5.  Bấm **OK** để lưu.
 
-ffmpeg -i input.mp4 -vf "select='not(mod(n,20))'" -vsync vfr frame_%05d.jpg
+------------------------------------------------------------------------
 
+## Kiểm tra cài đặt
 
-Giải thích nhanh:
+Mở **CMD** hoặc **PowerShell** và chạy:
 
-select='not(mod(n,20))' chọn những frame có chỉ số n chia hết cho 20 (0,20,40,...).
+    ffmpeg -version
 
--vsync vfr để xuất frame theo timestamp.
+Nếu hiện thông tin phiên bản → đã cài OK.
 
-Kết quả: frame_00001.jpg, frame_00002.jpg, ...
+------------------------------------------------------------------------
 
-Nếu muốn PNG: thay .jpg → .png.
+## Lệnh trích frame mỗi 20 frame
+
+Ví dụ lưu thành file JPG:
+
+    ffmpeg -i input.mp4 -vf "select='not(mod(n,20))'" -vsync vfr frame_%05d.jpg
+
+### Giải thích:
+
+-   `select='not(mod(n,20))'`: chọn các frame có chỉ số `n` chia hết cho
+    20 (0, 20, 40, ...).
+-   `-vsync vfr`: xuất frame theo timestamp, tránh trùng.
+
+Kết quả thu được:
+
+    frame_00001.jpg
+    frame_00002.jpg
+    ...
+
+Nếu muốn xuất PNG → thay `.jpg` bằng `.png`.
