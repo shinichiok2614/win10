@@ -56,6 +56,7 @@ Nếu hiện thông tin phiên bản → đã cài OK.
 Ví dụ lưu thành file JPG:
 
     ffmpeg -i input.mp4 -vf "select='not(mod(n,20))'" -vsync vfr frame_%05d.jpg
+    ffmpeg -i a.mp4 -vf "select='not(mod(n,50))'" -vsync vfr frame_%05d.jpg
 
 ### Giải thích:
 
