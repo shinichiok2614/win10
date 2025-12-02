@@ -132,3 +132,22 @@ Key:
 
 **Name:** Admin  
 **Code:** 000014-R3XD13-XNQ7UK-DNY8VZ-ZFZZZZ-ZZZZZZ-WCJP95-1VJ008-000000-00000
+
+
+Unity:
+  1. QUYỀN ADMIN (thường gặp nhất trên Windows 10/11)
+  Unity Hub không đủ quyền ghi vào thư mục cài đặt, dẫn đến lỗi validation.
+  ✔ Cách sửa:
+  Thoát Unity Hub
+  Chạy Unity Hub bằng Run as Administrator
+  Vào lại trang Installs → Add → Cài lại Editor
+  80% trường hợp lỗi này được sửa bằng cách chạy Unity Hub bằng Admin.
+  
+  6. CÀI QUA OFFLINE INSTALLER (Cách chắc chắn nhất)
+  Nếu cài online bị lỗi → hãy cài qua file .exe offline editor installer:
+  ✔ Link tải trực tiếp:
+  Vào trang Unity Download Archive:
+  https://unity.com/releases/editor/archive
+  Chọn phiên bản bạn muốn → Download Unity Installer (EXE)
+  Chạy file này bằng admin
+  Sau khi cài xong → Unity Hub sẽ tự nhận.
