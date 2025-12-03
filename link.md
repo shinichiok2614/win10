@@ -151,3 +151,10 @@ Unity:
   Chọn phiên bản bạn muốn → Download Unity Installer (EXE)
   Chạy file này bằng admin
   Sau khi cài xong → Unity Hub sẽ tự nhận.
+
+
+* Boot Camp 6.0.6133 - Driver Windows 8/8.1/10 64 bit cho máy Mac :
+
+https://mega.nz/#!MFB0QboZ!5eK7hTw-ReYmpvuG4CqFMyqEpgfgRK6o36inL-8FWG8
+
+https://www.fshare.vn/file/4C7NDMTVPOYL
