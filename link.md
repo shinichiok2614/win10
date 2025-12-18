@@ -1,5 +1,8 @@
 # Tổng hợp liên kết & hướng dẫn
 
+Office C2R Installers https://gravesoft.dev/office_c2r_links
+Download Windows https://massgrave.dev/genuine-installation-media
+
 ## Windows 10 22H2 (64-bit, 5.7GB)
 Chrome → **Network conditions**  
 Bỏ chọn *Select automatically* trong mục **User agent**  
