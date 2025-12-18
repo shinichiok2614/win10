@@ -174,6 +174,12 @@ Key:
 **Name:** Admin  
 **Code:** 000014-R3XD13-XNQ7UK-DNY8VZ-ZFZZZZ-ZZZZZZ-WCJP95-1VJ008-000000-00000
 
+EaseUS Partition Master Free
+https://www.easeus.com/partition-manager/epm-free.html
+
+MiniTool Partition 12.7 Full Crac'k
+https://drive.google.com/drive/folders/15GdVDh7wqgjJffuMy1nVfKv9UtZlCZ1e
+pass 2152
 
 Unity:
   1. QUYỀN ADMIN (thường gặp nhất trên Windows 10/11)
