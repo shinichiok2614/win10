@@ -43,6 +43,47 @@ Tại màn hình *Let’s connect you to a network*:
 ### Disable SmartScreen
 App & Browser Control → Smart App Control → Off
 
+Các bước kích hoạt Windows 10/11 vĩnh viễn
+Bước 1.Powershell > Run as Administrator 
+Bước 2.irm https://massgrave.dev/get | iex
+Bước 3. Khi cửa sổ Microsoft Activation Script hiển thị, bạn nhấn số “1” → nhấn Enter để thực hiện. 
+
+https://massgrave.dev/
+
+Microsoft Activation Scripts (MAS)
+Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
+How to Activate Windows / Office / Extended Updates (ESU)?
+Method 1 - PowerShell ❤️
+info
+Open PowerShell
+Click the Start Menu, type PowerShell, then open it.
+
+Copy and paste the code below, then press enter.
+
+For Windows 8, 10, 11: 📌
+irm https://get.activated.win | iex
+
+If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):
+iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+
+
+For Windows 7 and later:
+iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
+
+
+Script not launching❓Use Method 2.
+The activation menu will appear. Choose the green-highlighted options to activate Windows or Office.
+
+Done!
+
+Method 2 - Traditional (Windows Vista and later)
+info
+Download the script: MAS_AIO.cmd or the full ZIP.
+Run the file named MAS_AIO.cmd.
+You will see the activation options. Follow the on-screen instructions.
+That's all.
+
 ---
 
 ## Unity Download Archive
