@@ -210,6 +210,7 @@ https://mega.nz/#!MFB0QboZ!5eK7hTw-ReYmpvuG4CqFMyqEpgfgRK6o36inL-8FWG8
 https://www.fshare.vn/file/4C7NDMTVPOYL
 
 .NET Framework 3.5 SP1 232 MB
+  https://www.microsoft.com/en-us/download/details.aspx?id=25150
   https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1?wt.mc_id=install-docs
 # Lỗi cài .NET 3.5
 
@@ -402,3 +403,8 @@ Cho mình biết thêm:
 
 ---
 Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
+
+TranslucentTB
+https://github.com/TranslucentTB/TranslucentTB/releases/tag/2023.2
+https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/TranslucentTB.appinstaller
+https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/bundle.msixbundle
