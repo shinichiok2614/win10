@@ -211,3 +211,194 @@ https://www.fshare.vn/file/4C7NDMTVPOYL
 
 .NET Framework 3.5 SP1 232 MB
   https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1?wt.mc_id=install-docs
+# Lỗi cài .NET 3.5
+
+**User:** shinichiok kudo (phuonghoangit2614@gmail.com)  
+**Created:** 12/18/2025 15:35:39  
+**Updated:** 12/18/2025 17:48:38  
+**Exported:** 12/19/2025 7:38:23  
+**Link:** [https://chatgpt.com/c/6943bcb6-d5bc-8323-aa91-89801e82b518](https://chatgpt.com/c/6943bcb6-d5bc-8323-aa91-89801e82b518)  
+
+## Response:
+Lỗi **“No such interface supported” khi cài .NET Framework 3.5 trên Windows 11** là lỗi khá hay gặp. Nguyên nhân thường **không phải do thiếu file .NET**, mà do **dịch vụ Windows / COM / Windows Update bị lỗi hoặc bị can thiệp**. Dưới đây là phân tích **nguyên nhân → cách khắc phục theo mức độ hiệu quả**.
+
+* * *
+
+1️⃣ Nguyên nhân phổ biến nhất
+-----------------------------
+
+### 🔴 1. Windows Update hoặc Component Store bị lỗi
+
+.NET 3.5 trên Win 11 **không cài offline hoàn toàn**, nó cần:
+
+*   Windows Update
+*   DISM
+*   Component Based Servicing (CBS)
+
+Nếu các thành phần này lỗi → sinh ra **No such interface supported**.
+
+* * *
+
+### 🔴 2. Dịch vụ Windows Update bị tắt / lỗi
+
+Các service sau bị tắt hoặc lỗi:
+
+*   `Windows Update`
+*   `Background Intelligent Transfer Service (BITS)`
+*   `Windows Modules Installer (TrustedInstaller)`
+
+* * *
+
+### 🔴 3. Hệ thống Windows bị hỏng COM / Registry
+
+Thường xảy ra khi:
+
+*   Dùng tool “tối ưu Windows”, “debloat”
+*   Ghost Windows không chuẩn
+*   Can thiệp registry / service trước đó
+
+* * *
+
+### 🔴 4. Cài bằng cách “Turn Windows features on or off”
+
+Cách này **hay lỗi nhất trên Win 11**, đặc biệt nếu Windows Update đang lỗi.
+
+* * *
+
+2️⃣ Cách sửa – làm theo thứ tự (rất quan trọng)
+-----------------------------------------------
+
+* * *
+
+✅ Cách 1: Cài bằng DISM (khuyến nghị cao nhất)
+----------------------------------------------
+
+### 🔹 Bước 1: Mount ISO Windows 11 **đúng phiên bản đang dùng**
+
+*   Ví dụ: Win 11 23H2 → dùng ISO 23H2
+*   Chuột phải → **Mount**
+*   Giả sử ổ là `D:`
+
+* * *
+
+### 🔹 Bước 2: Mở **CMD / PowerShell (Run as Administrator)**
+
+Chạy lệnh:
+
+```bat
+DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:D:\sources\sxs
+```
+
+📌 Thay `D:` bằng ổ chứa ISO của bạn.
+
+* * *
+
+### 🔹 Nếu thành công → DONE
+
+Nếu vẫn lỗi → sang cách 2.
+
+* * *
+
+✅ Cách 2: Reset Windows Update + DISM + SFC
+-------------------------------------------
+
+### 🔹 Reset Windows Update
+
+Mở **CMD (Admin)**, chạy lần lượt:
+
+```bat
+net stop wuauserv
+net stop bits
+net stop cryptsvc
+net stop msiserver
+
+ren C:\Windows\SoftwareDistribution SoftwareDistribution.old
+ren C:\Windows\System32\catroot2 catroot2.old
+
+net start wuauserv
+net start bits
+net start cryptsvc
+net start msiserver
+```
+
+* * *
+
+### 🔹 Kiểm tra & sửa hệ thống
+
+Tiếp tục chạy:
+
+```bat
+DISM /Online /Cleanup-Image /RestoreHealth
+sfc /scannow
+```
+
+👉 Sau khi xong **restart máy** rồi thử cài lại .NET 3.5.
+
+* * *
+
+✅ Cách 3: Bật dịch vụ bắt buộc (rất hay bị tắt)
+-----------------------------------------------
+
+Mở **Services (services.msc)** và đảm bảo:
+
+| Dịch vụ | Trạng thái |
+| --- | --- |
+| Windows Update | Running / Manual |
+| Background Intelligent Transfer Service (BITS) | Running |
+| Windows Modules Installer | Manual |
+| Cryptographic Services | Running |
+
+* * *
+
+✅ Cách 4: Dùng Group Policy (nếu dùng bản Pro)
+----------------------------------------------
+
+Mở **gpedit.msc** → đi tới:
+
+```
+Computer Configuration
+ └ Administrative Templates
+   └ System
+     └ Specify settings for optional component installation
+```
+
+➡ Set:
+
+*   **Enabled**
+*   Tick: `Download repair content and optional features directly from Windows Update`
+
+👉 Apply → restart → cài lại .NET 3.5.
+
+* * *
+
+🚨 Khi nào chắc chắn là Windows bị lỗi nặng?
+--------------------------------------------
+
+Nếu:
+
+*   DISM / SFC đều lỗi
+*   Cài bằng ISO vẫn báo **No such interface supported**
+
+👉 **Khả năng rất cao Windows bị hỏng component**  
+➡ Giải pháp sạch nhất:
+
+*   **Repair Install (In-place upgrade)** Windows 11
+*   Hoặc cài lại Windows
+
+* * *
+
+❓ Bạn đang gặp trường hợp nào?
+------------------------------
+
+Cho mình biết thêm:
+
+1.  Win 11 bản gì (Home / Pro / 23H2?)
+2.  Cài .NET 3.5 bằng cách nào (Windows Features hay DISM)?
+3.  Có dùng bản Windows ghost / tối ưu không?
+
+👉 Mình sẽ chỉ đúng **1 cách nhanh nhất cho máy của bạn**, không làm thừa 👍
+
+
+
+---
+Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
