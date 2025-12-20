@@ -408,3 +408,7 @@ TranslucentTB
 https://github.com/TranslucentTB/TranslucentTB/releases/tag/2023.2
 https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/TranslucentTB.appinstaller
 https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/bundle.msixbundle
+
+
+FL Studio 20.1.2 Full Crack
+https://drive.google.com/file/d/1PtyTTMsjaImveGqBmxigjNsIAcfuppN4/view
