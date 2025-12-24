@@ -420,4 +420,6 @@ https://onedrive.live.com/?id=2B4702742AF83813%21923&cid=2B4702742AF83813&redeem
 IDM  pass33562
 https://drive.usercontent.google.com/download?id=1d5RsmWZMkZ-AQYA3wbYOfwH-67NgEiHu&export=download
 
-
+Adobe premier 2018
+pass1365753962
+https://drive.google.com/drive/folders/1gYfqDcpfG4-Emk9NS8HnK2shIlyLBI9u
