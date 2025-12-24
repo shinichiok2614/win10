@@ -412,3 +412,12 @@ https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/bundle.m
 
 FL Studio 20.1.2 Full Crack
 https://drive.google.com/file/d/1PtyTTMsjaImveGqBmxigjNsIAcfuppN4/view
+
+
+Deep Freeze  pass11892
+https://onedrive.live.com/?id=2B4702742AF83813%21923&cid=2B4702742AF83813&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaE00LUNwMEFrY3JoeHNkbmY1V3RMakFfNkp3P2U9cXd6QWNZ&parId=2B4702742AF83813%21sea8cc6beffdb43d7976fbc7da445c639&o=OneUp
+
+IDM  pass33562
+https://drive.usercontent.google.com/download?id=1d5RsmWZMkZ-AQYA3wbYOfwH-67NgEiHu&export=download
+
+
