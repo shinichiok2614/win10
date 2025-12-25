@@ -420,7 +420,9 @@ https://onedrive.live.com/?id=2B4702742AF83813%21923&cid=2B4702742AF83813&redeem
 IDM  pass33562
 https://drive.usercontent.google.com/download?id=1d5RsmWZMkZ-AQYA3wbYOfwH-67NgEiHu&export=download
 
-Adobe premier 2018
-pass1365753962
-pass2657158763
-https://drive.google.com/drive/folders/1gYfqDcpfG4-Emk9NS8HnK2shIlyLBI9u
+ADOBE PREMIERE PRO 2020 V14.1 REPACK (1.10GB)
+https://drive.google.com/file/d/1cumAJY114Fmipd3HOhTesSksdSK9YvYY/view?usp=sharing
+https://drive.usercontent.google.com/download?id=1cumAJY114Fmipd3HOhTesSksdSK9YvYY&export=download
+
+ADOBE PHOTOSHOP 2020 REPACK
+https://drive.google.com/file/d/1nJqkvsX9ysPped6Dx-exQxeBIQOATIn4/view?usp=sharing
