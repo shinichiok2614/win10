@@ -3,6 +3,9 @@
 Office C2R Installers https://gravesoft.dev/office_c2r_links
 Download Windows https://massgrave.dev/genuine-installation-media
 
+HL-L2366DW Full Driver & Software Package
+https://support.brother.com/g/b/downloadhowto.aspx?c=vn&lang=en&prod=hll2366dw_as&os=10068&dlid=dlf107163_000&flang=274&type3=11
+
 ## Windows 10 22H2 (64-bit, 5.7GB)
 Chrome → **Network conditions**  
 Bỏ chọn *Select automatically* trong mục **User agent**  
