@@ -429,3 +429,7 @@ https://drive.usercontent.google.com/download?id=1cumAJY114Fmipd3HOhTesSksdSK9Yv
 
 ADOBE PHOTOSHOP 2020 REPACK
 https://drive.google.com/file/d/1nJqkvsX9ysPped6Dx-exQxeBIQOATIn4/view?usp=sharing
+
+ExplorerBlurMica
+https://github.com/Maplespe/ExplorerBlurMica
+https://github.com/Maplespe/ExplorerBlurMica/releases/download/2.0.1/Release_x64.zip
