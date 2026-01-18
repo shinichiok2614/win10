@@ -435,3 +435,6 @@ https://github.com/Maplespe/ExplorerBlurMica
 https://github.com/Maplespe/ExplorerBlurMica/releases/download/2.0.1/Release_x64.zip
 
 https://www.rainmeter.net/
+
+Sports TV apk:
+bom.so/sportstv
