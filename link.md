@@ -433,3 +433,5 @@ https://drive.google.com/file/d/1nJqkvsX9ysPped6Dx-exQxeBIQOATIn4/view?usp=shari
 ExplorerBlurMica
 https://github.com/Maplespe/ExplorerBlurMica
 https://github.com/Maplespe/ExplorerBlurMica/releases/download/2.0.1/Release_x64.zip
+
+https://www.rainmeter.net/
