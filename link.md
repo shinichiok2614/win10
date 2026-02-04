@@ -438,3 +438,24 @@ https://www.rainmeter.net/
 
 Sports TV apk:
 bom.so/sportstv
+
+
+scrcpy 
+  https://github.com/Genymobile/scrcpy
+  https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md
+  winget install --exact Genymobile.scrcpy
+
+  scrcpy --prefer-text --turn-screen-off --stay-awake
+  scrcpy -S   # short version
+  scrcpy --turn-screen-off (run)
+  scrcpy (run)
+  scrcpy --list-cameras
+  scrcpy --list-camera-sizes
+  scrcpy --video-source=camera --camera-id=0
+
+adb
+  adb shell
+  cd /storage/BD75-081A
+  ls
+  
+  adb pull /storage/BD75-081A .
