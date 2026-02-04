@@ -408,30 +408,40 @@ Cho mình biết thêm:
 Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
 
 TranslucentTB
+
 https://github.com/TranslucentTB/TranslucentTB/releases/tag/2023.2
+
 https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/TranslucentTB.appinstaller
+
 https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/bundle.msixbundle
 
 
 FL Studio 20.1.2 Full Crack
+
 https://drive.google.com/file/d/1PtyTTMsjaImveGqBmxigjNsIAcfuppN4/view
 
 
 Deep Freeze  pass11892
+
 https://onedrive.live.com/?id=2B4702742AF83813%21923&cid=2B4702742AF83813&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaE00LUNwMEFrY3JoeHNkbmY1V3RMakFfNkp3P2U9cXd6QWNZ&parId=2B4702742AF83813%21sea8cc6beffdb43d7976fbc7da445c639&o=OneUp
 
 IDM  pass33562
+
 https://drive.usercontent.google.com/download?id=1d5RsmWZMkZ-AQYA3wbYOfwH-67NgEiHu&export=download
 
 ADOBE PREMIERE PRO 2020 V14.1 REPACK (1.10GB)
+
 https://drive.google.com/file/d/1cumAJY114Fmipd3HOhTesSksdSK9YvYY/view?usp=sharing
+
 https://drive.usercontent.google.com/download?id=1cumAJY114Fmipd3HOhTesSksdSK9YvYY&export=download
 
 ADOBE PHOTOSHOP 2020 REPACK
+
 https://drive.google.com/file/d/1nJqkvsX9ysPped6Dx-exQxeBIQOATIn4/view?usp=sharing
 
 ExplorerBlurMica
 https://github.com/Maplespe/ExplorerBlurMica
+
 https://github.com/Maplespe/ExplorerBlurMica/releases/download/2.0.1/Release_x64.zip
 
 https://www.rainmeter.net/
@@ -442,20 +452,33 @@ bom.so/sportstv
 
 scrcpy 
   https://github.com/Genymobile/scrcpy
+  
   https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md
+  
   winget install --exact Genymobile.scrcpy
 
+  scrcpy --turn-screen-off --power-off-on-close
+  
   scrcpy --prefer-text --turn-screen-off --stay-awake
+  
   scrcpy -S   # short version
+  
   scrcpy --turn-screen-off (run)
+  
   scrcpy (run)
+  
   scrcpy --list-cameras
+  
   scrcpy --list-camera-sizes
+  
   scrcpy --video-source=camera --camera-id=0
 
 adb
   adb shell
+  
   cd /storage/BD75-081A
+  
   ls
+  
   
   adb pull /storage/BD75-081A .
