@@ -482,3 +482,9 @@ adb
   
   
   adb pull /storage/BD75-081A .
+
+
+TaskbarX
+  https://github.com/ChrisAnd1998/TaskbarX/releases
+  https://github.com/ChrisAnd1998/TaskbarX/releases/download/1.7.8.0/TaskbarX_1.7.8.0_x64.zip
+
