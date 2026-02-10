@@ -488,3 +488,8 @@ TaskbarX
   https://github.com/ChrisAnd1998/TaskbarX/releases
   https://github.com/ChrisAnd1998/TaskbarX/releases/download/1.7.8.0/TaskbarX_1.7.8.0_x64.zip
 
+Agent Ransack
+  https://www.mythicsoft.com/agentransack/
+
+Directory Opus
+  [https://www.gpsoft.com.au/](https://www.gpsoft.com.au/download/release)
