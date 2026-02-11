@@ -493,3 +493,12 @@ Agent Ransack
 
 Directory Opus
   [https://www.gpsoft.com.au/](https://www.gpsoft.com.au/download/release)
+
+Bulk Crap Uninstaller
+  https://github.com/Klocman/Bulk-Crap-Uninstaller/releases
+
+Abbyy Finereader PDF 16 Corporate pass kBn16HG20KbH21
+  https://drive.usercontent.google.com/download?id=1huLuujlnzSLTBIjvyTBkjEN9SCexB_CO
+Abbyy Finereader PDF 12
+  https://drive.usercontent.google.com/download?id=1dAZbNhffrm_NT6eOYr09cVuN04prQfaG
+  
