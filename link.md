@@ -505,3 +505,29 @@ Abbyy Finereader PDF 12
 Escrcpy
 
   https://github.com/viarotel-org/escrcpy
+
+
+# Tắt âm thanh Windows
+
+* * *
+
+Tắt bằng Registry (triệt để, dành cho người rành)
+---------------------------------------------------------
+
+Cách này **Windows không phát bất kỳ tiếng beep hệ thống nào**.
+
+1.  `Win + R` → gõ `regedit`
+2.  Vào:
+
+```
+HKEY_CURRENT_USER\Control Panel\Sound
+```
+
+3.  Double click **Beep**
+4.  Đổi value từ `Yes` → `No`
+5.  Restart Windows
+
+⚠️ Cẩn thận khi chỉnh Registry nha.
+
+* * *
+
