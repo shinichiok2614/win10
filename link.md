@@ -532,3 +532,11 @@ HKEY_CURRENT_USER\Control Panel\Sound
 * * *
 
 Runcat 365
+
+80 game Popcap Collection
+https://drive.google.com/file/d/16xuXGIhZsBWRavM1Xl_Y4Bk11XP4NYOT/view
+
+Popcap Game Collection (2010)
+https://archive.org/details/pop-cap-game-collection-2010
+
+
