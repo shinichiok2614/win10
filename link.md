@@ -540,3 +540,6 @@ Popcap Game Collection (2010)
 https://archive.org/details/pop-cap-game-collection-2010
 
 
+GeForce Security Update Driver 582.28 | Windows 11
+https://www.nvidia.com/en-us/drivers/
+https://www.nvidia.com/en-us/drivers/details/263265/
