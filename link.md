@@ -543,3 +543,8 @@ https://archive.org/details/pop-cap-game-collection-2010
 GeForce Security Update Driver 582.28 | Windows 11
 https://www.nvidia.com/en-us/drivers/
 https://www.nvidia.com/en-us/drivers/details/263265/
+
+
+Foxit Reader version 9.4.1.16828 from Software Informer
+https://foxit-reader.software.informer.com/download/#downloading
+https://foxit-reader.software.informer.com/download/?ca1ae211-9.4.1.16828
