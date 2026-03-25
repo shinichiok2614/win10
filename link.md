@@ -1,6 +1,6 @@
 # Tổng hợp liên kết & hướng dẫn
 
-## Anhdv Boot 2026
+## Anhdv Boot 2026 pass 21AK22 
 https://21ak22.com/huong-dan-tao-usb-boot-cuu-ho-may-tinh-anhdv-boot-2026.html
 
 https://gofile.io/d/HNrN5A
