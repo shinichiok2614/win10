@@ -1,9 +1,13 @@
 # Tổng hợp liên kết & hướng dẫn
 
-Office C2R Installers https://gravesoft.dev/office_c2r_links
+## Ghost Win 11 24H2 – Multi-Edition, Update February 2025
+https://lehait.net/ghost-win-11-24h2-multi-edition-update-february-2025/
+https://gofile.io/d/eUW9xH
+
+## Office C2R Installers https://gravesoft.dev/office_c2r_links
 Download Windows https://massgrave.dev/genuine-installation-media
 
-HL-L2366DW Full Driver & Software Package
+## HL-L2366DW Full Driver & Software Package
 https://support.brother.com/g/b/downloadhowto.aspx?c=vn&lang=en&prod=hll2366dw_as&os=10068&dlid=dlf107163_000&flang=274&type3=11
 
 ## Windows 10 22H2 (64-bit, 5.7GB)
@@ -180,14 +184,14 @@ Key:
 **Name:** Admin  
 **Code:** 000014-R3XD13-XNQ7UK-DNY8VZ-ZFZZZZ-ZZZZZZ-WCJP95-1VJ008-000000-00000
 
-EaseUS Partition Master Free
+## EaseUS Partition Master Free
 https://www.easeus.com/partition-manager/epm-free.html
 
-MiniTool Partition 12.7 Full Crac'k
+## MiniTool Partition 12.7 Full Crac'k
 https://drive.google.com/drive/folders/15GdVDh7wqgjJffuMy1nVfKv9UtZlCZ1e
 pass 2152
 
-Unity:
+## Unity:
   1. QUYỀN ADMIN (thường gặp nhất trên Windows 10/11)
   Unity Hub không đủ quyền ghi vào thư mục cài đặt, dẫn đến lỗi validation.
   ✔ Cách sửa:
@@ -407,7 +411,7 @@ Cho mình biết thêm:
 ---
 Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
 
-TranslucentTB
+## TranslucentTB
 
 https://github.com/TranslucentTB/TranslucentTB/releases/tag/2023.2
 
@@ -416,41 +420,41 @@ https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/Transluc
 https://github.com/TranslucentTB/TranslucentTB/releases/download/2023.2/bundle.msixbundle
 
 
-FL Studio 20.1.2 Full Crack
+## FL Studio 20.1.2 Full Crack
 
 https://drive.google.com/file/d/1PtyTTMsjaImveGqBmxigjNsIAcfuppN4/view
 
 
-Deep Freeze  pass11892
+## Deep Freeze  pass11892
 
 https://onedrive.live.com/?id=2B4702742AF83813%21923&cid=2B4702742AF83813&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaE00LUNwMEFrY3JoeHNkbmY1V3RMakFfNkp3P2U9cXd6QWNZ&parId=2B4702742AF83813%21sea8cc6beffdb43d7976fbc7da445c639&o=OneUp
 
-IDM  pass33562
+## IDM  pass33562
 
 https://drive.usercontent.google.com/download?id=1d5RsmWZMkZ-AQYA3wbYOfwH-67NgEiHu&export=download
 
-ADOBE PREMIERE PRO 2020 V14.1 REPACK (1.10GB)
+## ADOBE PREMIERE PRO 2020 V14.1 REPACK (1.10GB)
 
 https://drive.google.com/file/d/1cumAJY114Fmipd3HOhTesSksdSK9YvYY/view?usp=sharing
 
 https://drive.usercontent.google.com/download?id=1cumAJY114Fmipd3HOhTesSksdSK9YvYY&export=download
 
-ADOBE PHOTOSHOP 2020 REPACK
+## ADOBE PHOTOSHOP 2020 REPACK
 
 https://drive.google.com/file/d/1nJqkvsX9ysPped6Dx-exQxeBIQOATIn4/view?usp=sharing
 
-ExplorerBlurMica
+## ExplorerBlurMica
 https://github.com/Maplespe/ExplorerBlurMica
 
 https://github.com/Maplespe/ExplorerBlurMica/releases/download/2.0.1/Release_x64.zip
 
 https://www.rainmeter.net/
 
-Sports TV apk:
+## Sports TV apk:
 bom.so/sportstv
 
 
-scrcpy 
+## scrcpy 
   https://github.com/Genymobile/scrcpy
   
   https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md
@@ -473,7 +477,7 @@ scrcpy
   
   scrcpy --video-source=camera --camera-id=0
 
-adb
+ ## adb
   adb shell
   
   cd /storage/BD75-081A
@@ -484,25 +488,26 @@ adb
   adb pull /storage/BD75-081A .
 
 
-TaskbarX
+## TaskbarX
   https://github.com/ChrisAnd1998/TaskbarX/releases
   https://github.com/ChrisAnd1998/TaskbarX/releases/download/1.7.8.0/TaskbarX_1.7.8.0_x64.zip
 
-Agent Ransack
+## Agent Ransack
   https://www.mythicsoft.com/agentransack/
 
-Directory Opus
+## Directory Opus
   [https://www.gpsoft.com.au/](https://www.gpsoft.com.au/download/release)
 
-Bulk Crap Uninstaller
+## Bulk Crap Uninstaller
   https://github.com/Klocman/Bulk-Crap-Uninstaller/releases
 
-Abbyy Finereader PDF 16 Corporate pass kBn16HG20KbH21
+## Abbyy Finereader PDF 16 Corporate pass kBn16HG20KbH21
   https://drive.usercontent.google.com/download?id=1huLuujlnzSLTBIjvyTBkjEN9SCexB_CO
-Abbyy Finereader PDF 12
+  
+## Abbyy Finereader PDF 12
   https://drive.usercontent.google.com/download?id=1dAZbNhffrm_NT6eOYr09cVuN04prQfaG
 
-Escrcpy
+## Escrcpy
 
   https://github.com/viarotel-org/escrcpy
 
@@ -533,19 +538,19 @@ HKEY_CURRENT_USER\Control Panel\Sound
 
 Runcat 365
 
-80 game Popcap Collection
+## 80 game Popcap Collection
 https://drive.google.com/file/d/16xuXGIhZsBWRavM1Xl_Y4Bk11XP4NYOT/view
 
-Popcap Game Collection (2010)
+## Popcap Game Collection (2010)
 https://archive.org/details/pop-cap-game-collection-2010
 
 
-GeForce Security Update Driver 582.28 | Windows 11
+## GeForce Security Update Driver 582.28 | Windows 11
 https://www.nvidia.com/en-us/drivers/
 https://www.nvidia.com/en-us/drivers/details/263265/
 
 
-Foxit Reader version 9.4.1.16828 from Software Informer
+## Foxit Reader version 9.4.1.16828 from Software Informer
 https://foxit-reader.software.informer.com/download/#downloading
 https://foxit-reader.software.informer.com/download/?ca1ae211-9.4.1.16828
 
