@@ -1,5 +1,9 @@
 # Tổng hợp liên kết & hướng dẫn
 
+## Anhdv Boot 2026
+https://21ak22.com/huong-dan-tao-usb-boot-cuu-ho-may-tinh-anhdv-boot-2026.html
+https://gofile.io/d/HNrN5A
+
 ## Ghost Win 11 24H2 – Multi-Edition, Update February 2025
 https://lehait.net/ghost-win-11-24h2-multi-edition-update-february-2025/
 https://gofile.io/d/eUW9xH
