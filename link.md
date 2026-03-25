@@ -580,3 +580,7 @@ curl -o %temp%\Install-Microsoft-Store.ps1 https://raw.githubusercontent.com/Thi
 powershell.exe -ExecutionPolicy Bypass -File "%temp%\Install-Microsoft-Store.ps1"
 
 Nhập Enter để bắt đầu cài đặt. Quá trình cài đặt sẽ download các file từ Microsoft và thực hiện cài đặt.
+
+## Ghost
+https://nguyenhung.net/huong-dan-cach-tao-usb-ghost-nhanh-chong-chi-voi-1-click.html
+https://www.mediafire.com/file/yel2qyb65lbhsn3/%5BBlogCongDong.Com%5D+Norton+Ghost+11.5.1+cho+USB+.rar
