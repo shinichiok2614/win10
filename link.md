@@ -2,11 +2,21 @@
 
 ## Anhdv Boot 2026
 https://21ak22.com/huong-dan-tao-usb-boot-cuu-ho-may-tinh-anhdv-boot-2026.html
+
 https://gofile.io/d/HNrN5A
 
 ## Ghost Win 11 24H2 – Multi-Edition, Update February 2025
 https://lehait.net/ghost-win-11-24h2-multi-edition-update-february-2025/
+
 https://gofile.io/d/eUW9xH
+
+https://21ak22.com/tai-ghost-win-11-pro-26h1-full-soft-v26-1-tot-nhat-2026.html
+
+Ghost ISO Windows (Legacy + UEFI)
+
+https://1drv.ms/f/c/9f8b0cb3a3bbc941/IgCVLJPfnPPcSpQlrnaRH3J3AWCXBoQX3OrR5kwbjLQ9Rlg
+
+https://gofile.io/d/gMa4ZJ
 
 ## Office C2R Installers https://gravesoft.dev/office_c2r_links
 Download Windows https://massgrave.dev/genuine-installation-media
