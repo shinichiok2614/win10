@@ -548,3 +548,16 @@ https://www.nvidia.com/en-us/drivers/details/263265/
 Foxit Reader version 9.4.1.16828 from Software Informer
 https://foxit-reader.software.informer.com/download/#downloading
 https://foxit-reader.software.informer.com/download/?ca1ae211-9.4.1.16828
+
+* * *
+
+Hướng dẫn cài đặt Microsoft Store cho Windows LTSC Enterprise
+Mở Command Prompt Run as administrator.
+
+Paste lần lượt lệnh bên dưới:
+
+curl -o %temp%\Install-Microsoft-Store.ps1 https://raw.githubusercontent.com/ThioJoe/Windows-Sandbox-Tools/refs/heads/main/Installer%20Scripts/Install-Microsoft-Store.ps1
+
+powershell.exe -ExecutionPolicy Bypass -File "%temp%\Install-Microsoft-Store.ps1"
+
+Nhập Enter để bắt đầu cài đặt. Quá trình cài đặt sẽ download các file từ Microsoft và thực hiện cài đặt.
