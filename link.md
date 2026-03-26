@@ -584,3 +584,6 @@ Nhập Enter để bắt đầu cài đặt. Quá trình cài đặt sẽ downlo
 ## Ghost
 https://nguyenhung.net/huong-dan-cach-tao-usb-ghost-nhanh-chong-chi-voi-1-click.html
 https://www.mediafire.com/file/yel2qyb65lbhsn3/%5BBlogCongDong.Com%5D+Norton+Ghost+11.5.1+cho+USB+.rar
+
+[PC game] Kho game hay
+https://f.gvn.co/threads/pc-game-kho-game-hay-dung-luong-nhe-co-hinh-anh-minh-hoa-hot.606612/
