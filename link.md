@@ -585,5 +585,8 @@ Nhập Enter để bắt đầu cài đặt. Quá trình cài đặt sẽ downlo
 https://nguyenhung.net/huong-dan-cach-tao-usb-ghost-nhanh-chong-chi-voi-1-click.html
 https://www.mediafire.com/file/yel2qyb65lbhsn3/%5BBlogCongDong.Com%5D+Norton+Ghost+11.5.1+cho+USB+.rar
 
-[PC game] Kho game hay
+## [PC game] Kho game hay
 https://f.gvn.co/threads/pc-game-kho-game-hay-dung-luong-nhe-co-hinh-anh-minh-hoa-hot.606612/
+Link down Talismania Deluxe
+Cd key :Name:web games
+Registration Keys:0000Q6-GGQVKN-T12VHV-5UN23M-ZG3HYD
