@@ -595,3 +595,10 @@ Registration Keys:0000Q6-GGQVKN-T12VHV-5UN23M-ZG3HYD
 Wallpaper Engine pass 11892
 https://phanmemvui.com/wallpaper-engine-moi-nhat/
 https://drive.usercontent.google.com/download?id=1CaeCpUzQ0o6vSt62YZEenU8ChNKX1EiM&export=download
+
+CorelDRAW 2022. Pass maytinhf5.com.rar
+https://drive.google.com/file/d/1luWArB-PtrkjyJGbRy1fMuuqwAIeScr1/view
+
+CORELDRAW 2020.rar
+https://drive.google.com/file/d/15rsymd5Uis9XmMi50CgwGsBHfsx0Wydw/view
+
