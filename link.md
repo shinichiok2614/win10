@@ -1,5 +1,8 @@
 # Tổng hợp liên kết & hướng dẫn
 
+Ratiborus KMS Tools 171020
+https://drive.usercontent.google.com/download?id=1q13bXA5SLTP_J3Iq6dT9IjDDZUafDv2i&export=download&authuser=0
+
 GTweak Portable tool for an ideal Windows setup and customization
 https://github.com/Greedeks/GTweak
 
